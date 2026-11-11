@@ -1,0 +1,56 @@
+{
+  "dataset_name": "CloudFlow retrieval evaluation",
+  "version": 1,
+  "cases": [
+    {
+      "id": "growth_plan_pricing",
+      "question": "What are the monthly and annual prices for the Growth plan?",
+      "expected_relevant_chunks": [
+        {
+          "source_file": "pricing.txt",
+          "chunk_index": 0
+        }
+      ]
+    },
+    {
+      "id": "accepted_payment_methods",
+      "question": "Which payment methods does CloudFlow accept?",
+      "expected_relevant_chunks": [
+        {
+          "source_file": "faq.txt",
+          "chunk_index": 0
+        }
+      ]
+    },
+    {
+      "id": "free_trial_terms",
+      "question": "How long is the free trial, and do I need a credit card to start it?",
+      "expected_relevant_chunks": [
+        {
+          "source_file": "faq.txt",
+          "chunk_index": 0
+        }
+      ]
+    },
+    {
+      "id": "cancellation_and_refunds",
+      "question": "Can I get a refund if I cancel partway through a billing period?",
+      "expected_relevant_chunks": [
+        {
+          "source_file": "faq.txt",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "id": "available_integrations",
+      "question": "Which integrations are available, and which plans include advanced integrations?",
+      "expected_relevant_chunks": [
+        {
+          "source_file": "products.txt",
+          "chunk_index": 0
+        }
+      ]
+    }
+  ]
+}

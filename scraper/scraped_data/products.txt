@@ -1,0 +1,104 @@
+TITLE: Products — CloudFlow
+URL: http://localhost:8000/products.html
+
+One connected workspace
+Meet the tools that
+keep work in flow.
+CloudFlow helps small and medium-sized businesses manage projects, customer information, and business operations. Some advanced features depend on the subscription plan.
+Project and task management
+Customer records
+Operations and reporting
+◫
+01 / Project planning
+Make the next step
+easy to see.
+Plan projects and tasks, collaborate with your team, and track project progress. Calendar integration helps bring project work into your schedule.
+Manage projects and tasks
+Collaborate with your team
+Track project progress
+Use calendar integration
+Basic project planning is included in Starter. Advanced feature availability depends on plan.
+Compare plans
+→
+ILLUSTRATIVE PROJECT SAMPLE
+Sample project
+Sample status
+Illustrative progress
+68%
+SAMPLE TASKS
+Task example
+Team member
+Review example
+Team member
+SAMPLE COLLABORATION
+Shared project work
+Team member
+◎
+02 / Customer Hub
+Keep customer
+information together.
+Organize customer records and contact details, and track customer activity so your team can find relevant information in one place.
+Maintain customer records
+Manage contact information
+Track customer activity
+Organize customer information
+Customer Hub is included in Starter and higher plans.
+Compare plans
+→
+ILLUSTRATIVE CUSTOMER RECORD
+EX
+Sample customer
+Illustrative record
+Record type
+Customer
+Plan availability
+Starter+
+SAMPLE ACTIVITY
+Sample customer activity
+Illustrative entry
+Contact information
+Example record only
+↗
+03 / Business Operations
+Understand how
+work is moving.
+CloudFlow Business Operations brings together time tracking, invoicing, business reports, and operational management. Feature availability depends on your plan.
+Track time
+Manage invoicing
+Review business reports
+Support operational management
+Starter includes basic Business Operations. Growth adds invoicing and advanced reporting; Scale includes all Growth features.
+See plan details
+→
+ILLUSTRATIVE OPERATIONS SAMPLE
+Sample report value
+$2,400
+Illustrative
+↗
+Sample invoice
+Illustrative data only
+$2,400
+Integrations and files
+Bring the right
+work together.
+CloudFlow references Google Calendar, Microsoft 365, Google Drive, and CSV import and export. CSV import and export are available on every plan. Advanced integrations are available on Growth and Scale. Specific integration availability by plan is not specified; contact CloudFlow for more information.
+Files can be uploaded or linked from Google Drive. Supported file types and upload limits are not specified.
+G
+Google Calendar
+Calendar integration
+M
+Microsoft 365
+Plan availability depends on integration
+▱
+Google Drive
+Plan availability not specified
+↕
+CSV
+Import and export on all plans
+See plan details
+Find your team’s
+new rhythm.
+Compare subscription features, limits, and prices on the Pricing page.
+Explore plans
+→
+✳

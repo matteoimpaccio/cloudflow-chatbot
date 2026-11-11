@@ -1,0 +1,55 @@
+TITLE: Contact — CloudFlow
+URL: http://localhost:8000/contact.html
+
+CloudFlow Contact
+Find the right
+information.
+This is the currently published Contact page. Verified direct email or phone contact details are not specified.
+✳
+Product and plan information
+See approved product capabilities on the Products page and plan features, prices, limits, and billing terms on Pricing.
+Visit Products
+↗
+Compare plans and prices
+?
+Customer support information
+Support is available Monday to Friday, 9:00 AM–5:00 PM Pacific Time, excluding US federal public holidays. Plan first response targets are listed in the FAQ.
+View support details
+↗
+Response targets are not resolution guarantees.
+↗
+Billing and account policies
+Find payment methods, renewal timing, cancellation terms, and refund policy on the Pricing page.
+View billing information
+↗
+Duplicate charges and billing errors can be reviewed by customer support.
+PDX
+Headquarters
+CloudFlow is headquartered in Portland, Oregon.
+A street address or office visit process is not specified.
+✳
+Support hours
+Clear hours.
+Clear targets.
+Customer care hours are Monday to Friday, 9:00 AM to 5:00 PM Pacific Time, excluding US federal public holidays.
+Starter: first response within 2 business days. Growth: within 1 business day. Scale: within 4 business hours. These are first response targets, not resolution times.
+Read support FAQs
+→
+GENERAL AND SALES INQUIRIES
+Usually within 1 business day
+Response target only
+Security and privacy summary
+How CloudFlow handles data.
+CloudFlow states that workspace data is not sold or used for targeted advertising. Account and product usage data is used to provide, secure, support, and improve the service. Data is encrypted in transit with TLS and at rest with AES-256. Hosting is in the United States. Daily encrypted backups are retained for 35 days. Detailed privacy terms beyond these stated practices are not specified in the approved company knowledge.
+Billing and account terms
+Retention and deletion.
+Exports remain available for 30 days after subscription cancellation. At the end of that period, account data is deleted from active systems. Encrypted backups follow a separate retention cycle of up to 35 days. Customers can request account deletion through support. For payment, cancellation, renewal, and refund terms, see
+Pricing and billing
+.
+Looking for a specific answer?
+Browse product,
+pricing, and support details.
+Contact channels beyond this page are not specified in the approved company information.
+Visit the FAQ
+→
+✳

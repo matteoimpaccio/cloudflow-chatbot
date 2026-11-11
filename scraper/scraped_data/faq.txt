@@ -1,0 +1,74 @@
+TITLE: FAQ — CloudFlow
+URL: http://localhost:8000/faq.html
+
+Here when you need us
+Good questions.
+Clear answers.
+Find information about CloudFlow products, plans, billing, data, and support. If information is not specified here, visit the Contact page.
+Visit Contact page
+→
+On this page
+Getting started
+Plans and billing
+Using CloudFlow
+Security and data
+Support
+✳
+Need more information?
+Visit the CloudFlow Contact page. Verified direct contact channels are not currently listed.
+Contact page →
+01
+Getting started
+What is CloudFlow?
+CloudFlow is a fictional SaaS company providing business management software for small and medium-sized businesses. Its platform covers project and task management, customer information, business operations, time tracking, invoicing, and reporting.
+What is included in the free trial?
+The free trial lasts 14 days, requires no credit card, supports up to 5 users, and includes Growth plan features. CloudFlow sends a reminder before the trial expires. The trial does not automatically convert to a paid subscription. At the end of the trial, the workspace is paused unless a paid plan is selected. Trial data is retained for 30 days after the workspace is paused.
+Can I import existing data?
+CSV import and export are available on all plans. File types, supported CSV column formats, and upload limits are not specified in the approved company information. Visit the Contact page for more information.
+02
+Plans and billing
+What are the prices?
+Prices are in USD per active user. Starter is $12 per user per month billed annually or $15 per user per month billed monthly. Growth is $24 per user per month billed annually or $29 per user per month billed monthly. Scale is $39 per user per month billed annually or $47 per user per month billed monthly. Annual Starter billing saves 20%; Growth and Scale save approximately 17%. Applicable taxes are extra and depend on the billing address. See
+Pricing
+for plan details.
+How many users and how much storage does each plan include?
+Starter supports 1–10 users and includes 2 GB storage per user. Growth supports 1–50 users and includes 20 GB per user. Scale supports 10–250 users and includes 100 GB per user. Scale is intended for organizations requiring advanced security and governance.
+How do billing, payment, and renewal work?
+Monthly and annual billing are available. There are no setup or activation fees. Visa, Mastercard, and American Express are accepted. Invoices are available in the workspace Billing section. If a payment fails, CloudFlow sends a notification; customers have 7 days to update their payment method before account suspension. Cancel at least 24 hours before renewal through workspace Settings → Billing. Additional users on annual subscriptions are prorated; removed users take effect at the next renewal.
+What is the cancellation and refund policy?
+There is no cancellation fee. A canceled subscription remains active through the end of the already-paid billing period. No refunds are provided for partially used billing periods. Duplicate charges and billing errors can be reviewed by customer support; no further refund exceptions are specified.
+Are discounts available?
+Eligible nonprofit and education organizations may receive 20% off annual Growth subscriptions. Eligibility must be confirmed by customer support.
+03
+Using CloudFlow
+What features are in each plan?
+Starter includes basic project planning, Customer Hub, basic Business Operations, CSV export, and email support. Growth includes all Starter features plus invoicing, advanced reporting, custom fields, advanced integrations, and priority email support. Scale includes all Growth features plus advanced security and governance, and priority support. CSV import and export are available on all plans. See
+Pricing
+.
+Which integrations are available?
+CloudFlow references Google Calendar, Microsoft 365, and Google Drive. Advanced integrations are available on Growth and Scale. CSV import and export are available on all plans. The specific plan availability of each named integration is not specified. Files can be uploaded or linked from Google Drive. Supported file types and upload limits are not specified.
+Can I export my data and how long is it retained?
+Customers can export project, customer, time, and invoice records as CSV. Exports remain available for 30 days after subscription cancellation. At the end of that period, account data is deleted from active systems. Encrypted backups follow a separate retention cycle of up to 35 days. Customers can contact support through the Contact page to request account deletion.
+04
+Security and data
+How does CloudFlow protect information?
+CloudFlow's approved security policy states that data is encrypted in transit with TLS and at rest with AES-256. Daily encrypted backups are retained for 35 days. Hosting is in the United States. Production access is restricted to authorized personnel and regularly reviewed. No SOC 2 or ISO 27001 certification is claimed.
+Does CloudFlow sell customer data or use it for advertising?
+CloudFlow states that customer workspace data is not sold or used for targeted advertising. Account and product usage data is used to provide, secure, support, and improve the service.
+When is account data deleted?
+After subscription cancellation, data exports remain available for 30 days. At the end of the 30-day period, account data is deleted from active systems. Encrypted backups follow a separate retention cycle of up to 35 days. Customers can request account deletion through support using the Contact page.
+05
+Support
+When is customer support available?
+Customer care hours are Monday to Friday, 9:00 AM to 5:00 PM Pacific Time, excluding US federal public holidays.
+What are the first response targets?
+Starter: within 2 business days. Growth: within 1 business day. Scale: within 4 business hours. These are first response targets, not guaranteed issue resolution times. General and sales inquiries usually receive a response within one business day.
+How do I contact support?
+Visit the
+CloudFlow Contact page
+. Verified direct contact details are not currently specified on the Contact page.
+Need more information?
+Visit the CloudFlow
+Contact page.
+Contact page
+→

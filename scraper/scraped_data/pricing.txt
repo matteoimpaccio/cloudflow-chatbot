@@ -1,0 +1,76 @@
+TITLE: Pricing — CloudFlow
+URL: http://localhost:8000/pricing.html
+
+Straightforward pricing
+Good tools. Clear
+numbers.
+All prices are in US dollars per active user. Choose monthly or annual billing. Applicable taxes are extra and depend on your billing address.
+Annual billing saves 20% on Starter and approximately 17% on Growth and Scale.
+For a focused team
+Starter
+Core project planning, customer records, and business operations.
+$12
+/ user / month
+billed annually
+Or $15 per user per month, billed monthly · 20% annual savings
+1–10 users · 2 GB storage per user
+Included
+Basic project planning
+Customer Hub
+Basic Business Operations
+CSV import and export
+Email support: first response within 2 business days
+MOST POPULAR
+For a growing business
+Growth
+More reporting, invoicing, and integrations for expanding teams.
+$24
+/ user / month
+billed annually
+Or $29 per user per month, billed monthly · approximately 17% annual savings
+1–50 users · 20 GB storage per user
+Everything in Starter, plus
+Invoicing
+Advanced reporting
+Custom fields
+Advanced integrations
+Priority email support: first response within 1 business day
+For advanced governance
+Scale
+For organizations requiring advanced security and governance capabilities.
+$39
+/ user / month
+billed annually
+Or $47 per user per month, billed monthly · approximately 17% annual savings
+10–250 users · 100 GB storage per user
+Everything in Growth, plus
+Advanced security and governance
+Priority support: first response within 4 business hours
+The details, plainly
+Billing, trials, and
+subscription policies.
+Annual savings:
+Starter annual billing saves 20% compared with monthly billing. Growth and Scale annual billing save approximately 17%.
+Fees and taxes:
+There are no setup or activation fees. Prices exclude applicable taxes, which are calculated based on the billing address.
+Adding or removing users:
+Additional users on annual subscriptions are prorated. Removing users takes effect at the next renewal.
+Free trial:
+The trial lasts 14 days, requires no credit card, supports up to 5 users, and includes Growth features. It does not automatically convert to a paid subscription. A reminder is sent before expiry. The workspace pauses at trial end unless a paid plan is selected. Trial data is retained for 30 days after the workspace is paused.
+Payments:
+Visa, Mastercard, and American Express are accepted. Billing invoices are available in the workspace Billing section. A failed payment triggers a customer notification; customers have 7 days to update their payment method before account suspension.
+Cancellation and renewal:
+Cancel through workspace Settings → Billing at least 24 hours before renewal to avoid the next renewal. There is no cancellation fee. The subscription remains active through the end of the already-paid period. Removing users is effective at the next renewal.
+Refunds and billing errors:
+No refunds are provided for partially used billing periods. Duplicate charges and billing errors can be reviewed by customer support. No additional refund exceptions are specified.
+Discounts:
+Eligible nonprofit and education organizations may receive 20% off annual Growth subscriptions. Eligibility must be confirmed by customer support.
+Read billing FAQs
+→
+Need more information?
+We can help you
+compare the plans.
+Visit the Contact page for CloudFlow’s currently available contact information.
+Contact page
+→
+✳
